@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/contentful/contentful.js.git"
   },
+  "version": "0.0.1",
   "author": "Contentful <opensource@contentful.com>",
   "license": "MIT",
   "tonicExampleFilename": "tonic-example.js",
